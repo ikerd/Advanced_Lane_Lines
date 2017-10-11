@@ -18,12 +18,12 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./writeup_imgs/chess.png "Undistorted chessboard"
-[image2]: ./writeup_imgs/undistort.png "Road Transformed"
-[image3]: ./writeup_imgs/tresholds.png "Binary Example"
-[image4]: ./writeup_imgs/warped.png "Warp Example"
-[image5]: ./writeup_imgs/fit.png "Fit Visual"
-[image6]: ./writeup_imgs/drawed.png "Output"
+[image1]: /writeup_imgs/chess.png "Undistorted chessboard"
+[image2]: /writeup_imgs/undistort.png "Road Transformed"
+[image3]: /writeup_imgs/tresholds.png "Binary Example"
+[image4]: /writeup_imgs/warped.png "Warp Example"
+[image5]: /writeup_imgs/fit.png "Fit Visual"
+[image6]: /writeup_imgs/drawed.png "Output"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
@@ -135,7 +135,7 @@ As can be seen the function, appends the curvature and center to distance values
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result](./project_video_out.mp4)
+Here's a [link to my video result](/project_video_out.mp4)
 
 
 ---
